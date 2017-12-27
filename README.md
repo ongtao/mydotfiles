@@ -1,2 +1,8 @@
-# mydotfiles
-All of my dot configuration files.
+## Introduction
+This repository is used to manage all my dot configuration files, it includes:
+
+>* Vim
+>* Tmux
+>* Zsh
+>* Bash
+>* NeoVim
